@@ -2,7 +2,7 @@
 
 # ECC
 
-![ECC - the harness-native operator system for agentic work](assets/hero.png)
+![ECC - the harness-native operator system for agentic work](../../assets/hero.png)
 
 [![Stars](https://img.shields.io/github/stars/affaan-m/ECC?style=flat)](https://github.com/affaan-m/ECC/stargazers)
 [![Forks](https://img.shields.io/github/forks/affaan-m/ECC?style=flat)](https://github.com/affaan-m/ECC/network/members)
