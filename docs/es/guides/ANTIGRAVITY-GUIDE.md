@@ -1,7 +1,7 @@
 Traducción al español (es).
 <!-- translator: OpenCode translation; date: 2026-05-28 -->
 
-# Guía de uso y configuración de antigravedad
+# Guía de uso y configuración de Antigravity
 
 [Antigravity](https://antigravity.dev) de Google es un IDE de codificación de IA que utiliza una convención de directorio `.agent/` para la configuración. ECC proporciona soporte de primera clase para Antigravity a través de su sistema de instalación selectiva.
 
@@ -129,7 +129,7 @@ Consulte [CONTRIBUTING.md](../CONTRIBUTING.md) para obtener la guía de contribu
 | Instalar destino | `claude-home` | `cursor-project` | `codex-home` | `antigravity` |
 | raíz de configuración | `~/.claude/` | `.cursor/` | `~/.codex/` | `.agent/` |
 | Alcance | Nivel de usuario | Nivel de proyecto | Nivel de usuario | Nivel de proyecto |
-| Formato de reglas | directorios anidados | Departamento | Departamento | Departamento |
+| Formato de reglas | directorios anidados | plano | N / A | N / A |
 | Comandos | `commands/` | N / A | N / A | `workflows/` |
 | Agentes/Habilidades | `agents/` | N / A | N / A | `skills/` |
 | Estado de instalación | `ecc-install-state.json` | `ecc-install-state.json` | `ecc-install-state.json` | `ecc-install-state.json` |

@@ -170,7 +170,7 @@ Eso no recrea la automatización real, pero sí captura la disciplina operativa 
 4. Añade instrucciones permanentes de “intención de hook”.
 5. Empieza con una tarea y verifica que el harness siga el flujo antes de escalar.
 
-Preambulo inicial de ejemplo:
+Preámbulo inicial de ejemplo:
 
 ```text
 Estás operando con un paquete ECC adaptado manualmente.

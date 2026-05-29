@@ -1,4 +1,4 @@
-**Idioma:** [English](../../README.md) | [Português (Brasil)](../pt-BR/README.md) | [简体中文](../../README.zh-CN.md) | [繁體中文](../zh-TW/README.md) | [日本語](../ja-JP/README.md) | [한국어](../ko-KR/README.md) | [Türkçe](../tr/README.md) | [Русский](../ru/README.md) | [Tiếng Việt](../vi-VN/README.md) | [ไทย](../th/README.md) | [Deutsch](../de-DE/README.md) | [Español]
+**Idioma:** [English](../../README.md) | [Português (Brasil)](../pt-BR/README.md) | [简体中文](../../README.zh-CN.md) | [繁體中文](../zh-TW/README.md) | [日本語](../ja-JP/README.md) | [한국어](../ko-KR/README.md) | [Türkçe](../tr/README.md) | [Русский](../ru/README.md) | [Tiếng Việt](../vi-VN/README.md) | [ไทย](../th/README.md) | [Deutsch](../de-DE/README.md) | [Español](README.md)
 
 # ECC
 
@@ -86,17 +86,17 @@ Este repositorio solo contiene el código en bruto. Las guías lo explican todo.
 <tr>
 <td width="33%">
 <a href="https://x.com/affaanmustafa/status/2012378465664745795">
-<img src="./assets/images/guides/shorthand-guide.png" alt="Guía breve de Everything Claude Code" />
+<img src="../../assets/images/guides/shorthand-guide.png" alt="Guía breve de Everything Claude Code" />
 </a>
 </td>
 <td width="33%">
 <a href="https://x.com/affaanmustafa/status/2014040193557471352">
-<img src="./assets/images/guides/longform-guide.png" alt="Guía extensa de Everything Claude Code" />
+<img src="../../assets/images/guides/longform-guide.png" alt="Guía extensa de Everything Claude Code" />
 </a>
 </td>
 <td width="33%">
 <a href="https://x.com/affaanmustafa/status/2033263813387223421">
-<img src="./assets/images/security/security-guide-header.png" alt="Guía breve de seguridad para trabajo de agentes" />
+<img src="../../assets/images/security/security-guide-header.png" alt="Guía breve de seguridad para trabajo de agentes" />
 </a>
 </td>
 </tr>
@@ -214,7 +214,7 @@ La mayoría de los usuarios de Claude Code deberían usar exactamente una ruta d
 - **Usa el instalador manual solo si** deseas un control más detallado, quieres evitar la ruta del complemento por completo, o tu compilación de Claude Code tiene problemas para resolver la entrada del marketplace autoalojado.
 - **No combines varios métodos de instalación.** La configuración rota más común es: primero `/plugin install`, y después `install.sh --profile full` o `npx ecc-install --profile full`.
 
-Si ya superpusiste varias instalaciones y las cosas parecen duplicadas, ve directamente a [Restablecer / desinstalar ECC](#reset--uninstall-ecc).
+Si ya superpusiste varias instalaciones y las cosas parecen duplicadas, ve directamente a [Restablecer / desinstalar ECC](#restablecer--desinstalar-ecc).
 
 ### Ruta de bajo contexto / sin hooks
 
