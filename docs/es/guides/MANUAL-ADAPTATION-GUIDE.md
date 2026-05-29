@@ -211,4 +211,4 @@ Así que la regla es simple:
 - [Issue #1186](https://github.com/affaan-m/everything-claude-code/issues/1186)
 - [Discussion #1077](https://github.com/affaan-m/everything-claude-code/discussions/1077)
 - [Antigravity Guide](./ANTIGRAVITY-GUIDE.md)
-- [Troubleshooting](./TROUBLESHOOTING.md)
+- [Troubleshooting](../reference/TROUBLESHOOTING.md)

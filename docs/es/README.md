@@ -40,7 +40,7 @@ No son solo configuraciones. Es un sistema completo: skills, instintos, optimiza
 
 Funciona con **Claude Code**, **Codex**, **Cursor**, **OpenCode**, **Gemini**, **Zed**, **GitHub Copilot**, y otros harnesses de agentes de IA.
 
-ECC v2.0.0-rc.1 agrega la historia del operador Hermes público encima de esa capa reutilizable: comienza con la [guía de configuración de Hermes](HERMES-SETUP.md), luego revisa las [notas de la versión rc.1](../../docs/releases/2.0.0-rc.1/release-notes.md) y la [arquitectura entre harnesses](../../docs/architecture/cross-harness.md).  
+ECC v2.0.0-rc.1 agrega la historia del operador Hermes público encima de esa capa reutilizable: comienza con la [guía de configuración de Hermes](guides/HERMES-SETUP.md), luego revisa las [notas de la versión rc.1](../../docs/releases/2.0.0-rc.1/release-notes.md) y la [arquitectura entre harnesses](../../docs/architecture/cross-harness.md).  
 
 ---
 
@@ -1151,18 +1151,18 @@ Sí. ECC es multiplataforma:
 - **OpenCode**: Soporte completo de plugin en `.opencode/`. Consulta [Soporte para OpenCode](#soporte-para-opencode).
 - **Codex**: Soporte de primer nivel para la app de macOS y la CLI, con protecciones contra drift del adaptador y fallback de SessionStart. Consulta el PR [#257](https://github.com/affaan-m/ECC/pull/257).
 - **GitHub Copilot (VS Code)**: Capa de instrucciones y prompts mediante `.github/copilot-instructions.md`, `.vscode/settings.json` y `.github/prompts/`. Consulta [Soporte para GitHub Copilot](#soporte-para-github-copilot).
-- **Antigravity**: Configuración fuertemente integrada para workflows, skills y rules aplanadas en `.agent/`. Consulta [Antigravity Guide](ANTIGRAVITY-GUIDE.md).
-- **JoyCode / CodeBuddy**: Adaptadores de instalación selectiva a nivel de proyecto para comandos, agents, skills y rules aplanadas. Consulta [JoyCode Adapter Guide](JOYCODE-GUIDE.md).
-- **Qwen CLI**: Adaptador de instalación selectiva en el directorio home para comandos, agents, skills, rules y configuración de Qwen. Consulta [Qwen CLI Adapter Guide](QWEN-GUIDE.md).
+- **Antigravity**: Configuración fuertemente integrada para workflows, skills y rules aplanadas en `.agent/`. Consulta [Antigravity Guide](guides/ANTIGRAVITY-GUIDE.md).
+- **JoyCode / CodeBuddy**: Adaptadores de instalación selectiva a nivel de proyecto para comandos, agents, skills y rules aplanadas. Consulta [JoyCode Adapter Guide](guides/JOYCODE-GUIDE.md).
+- **Qwen CLI**: Adaptador de instalación selectiva en el directorio home para comandos, agents, skills, rules y configuración de Qwen. Consulta [Qwen CLI Adapter Guide](guides/QWEN-GUIDE.md).
 - **Zed**: Adaptador de instalación selectiva a nivel de proyecto para `.zed/settings.json`, rules aplanadas, comandos, agents y skills.
-- **Harnesses no nativos**: Ruta manual de fallback para Grok y otras interfaces similares. Consulta [Manual Adaptation Guide](MANUAL-ADAPTATION-GUIDE.md).
+- **Harnesses no nativos**: Ruta manual de fallback para Grok y otras interfaces similares. Consulta [Manual Adaptation Guide](guides/MANUAL-ADAPTATION-GUIDE.md).
 - **Claude Code**: Nativo; este es el objetivo principal.
 </details>
 
 <details>
 <summary><b>¿Cómo contribuyo con una nueva skill o agent?</b></summary>
 
-Consulta la guía de contribución en inglés en [CONTRIBUTING.md](../../CONTRIBUTING.md). La versión corta:
+Consulta [CONTRIBUTING.md](CONTRIBUTING.md). La versión corta:
 1. Haz fork del repo.
 2. Crea tu skill en `skills/your-skill-name/SKILL.md` (con frontmatter YAML).
 3. O crea un agent en `agents/your-agent.md`.
@@ -1197,7 +1197,7 @@ Este repo está pensado como un recurso comunitario. Si tienes:
 - mejores configuraciones MCP
 - rules mejoradas
 
-Contribuye. Consulta [CONTRIBUTING.md](../../CONTRIBUTING.md) para ver las pautas.
+Contribuye. Consulta [CONTRIBUTING.md](CONTRIBUTING.md) para ver las pautas.
 
 ### Ideas para contribuir
 
@@ -1691,7 +1691,7 @@ Agent Teams crea múltiples ventanas de contexto. Cada teammate consume tokens d
 
 ### Optimización de tokens
 
-¿Llegaste a tus límites diarios? Consulta la **[guía de Optimización de tokens](token-optimization.md)** para ver configuraciones recomendadas y consejos de workflow.
+¿Llegaste a tus límites diarios? Consulta la **[guía de Optimización de tokens](reference/token-optimization.md)** para ver configuraciones recomendadas y consejos de workflow.
 
 Victorias rápidas:
 

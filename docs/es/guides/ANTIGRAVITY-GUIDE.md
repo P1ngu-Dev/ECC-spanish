@@ -120,7 +120,7 @@ Si estás aportando una nueva habilidad y quieres que esté disponible en Antigr
 
 > **Distinción clave**: El instalador implementa `agents/` (sin punto) → `.agent/skills/`: esto es lo que hace que skills esté disponible en tiempo de ejecución. El directorio `.agents/` (con prefijo de punto) es un diseño estático separado para las configuraciones Codex `openai.yaml` y el instalador no lo implementa automáticamente.
 
-Consulte [CONTRIBUTING.md](../../CONTRIBUTING.md) para obtener la guía de contribución completa.
+Consulte [CONTRIBUTING.md](../CONTRIBUTING.md) para obtener la guía de contribución completa.
 
 ## Comparación con otros objetivos
 
@@ -154,6 +154,6 @@ Consulte [CONTRIBUTING.md](../../CONTRIBUTING.md) para obtener la guía de contr
 
 ## Recursos relacionados
 
-- [Arquitectura de instalación selectiva](../../docs/SELECTIVE-INSTALL-ARCHITECTURE.md): cómo funciona el sistema de instalación bajo el capó
-- [Diseño de instalación selectiva](../../docs/SELECTIVE-INSTALL-DESIGN.md): decisiones de diseño y contratos de adaptadores de destino
-- [CONTRIBUTING.md](../../CONTRIBUTING.md) — cómo contribuir skills, agents y commands
+- [Arquitectura de instalación selectiva](../../SELECTIVE-INSTALL-ARCHITECTURE.md): cómo funciona el sistema de instalación bajo el capó
+- [Diseño de instalación selectiva](../../SELECTIVE-INSTALL-DESIGN.md): decisiones de diseño y contratos de adaptadores de destino
+- [CONTRIBUTING.md](../CONTRIBUTING.md) — cómo contribuir skills, agents y commands
