@@ -101,8 +101,8 @@ Esto permanece local y debe configurarse por operador:
 
 ## Documentos relacionados
 
-- [Guía de migración de Hermes/OpenClaw](HERMES-OPENCLAW-MIGRATION.md)
-- [Arquitectura cross-harness](architecture/cross-harness.md)
+- [Guía de migración de Hermes/OpenClaw](../../docs/HERMES-OPENCLAW-MIGRATION.md)
+- [Arquitectura cross-harness](../../docs/architecture/cross-harness.md)
 
 ## Por qué Hermes x ECC
 

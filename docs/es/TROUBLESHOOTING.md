@@ -69,7 +69,7 @@ exit 2
 
 ## Documentos relacionados de ECC
 
-- [hook-bug-workarounds.md](./hook-bug-workarounds.md) para la lista de verificación más breve de recuperación de hooks, compactación y MCP.
-- [hooks/README.md](../hooks/README.md) para el ciclo de vida de hooks documentado en ECC y el comportamiento de los códigos de salida.
+- [hook-bug-workarounds.md](../../docs/hook-bug-workarounds.md) para la lista de verificación más breve de recuperación de hooks, compactación y MCP.
+- [hooks/README.md](../../hooks/README.md) para el ciclo de vida de hooks documentado en ECC y el comportamiento de los códigos de salida.
 - [token-optimization.md](./token-optimization.md) para ajustes de costo y gestión de contexto.
 - [issue #644](https://github.com/affaan-m/everything-claude-code/issues/644) para el reporte original y el entorno probado.
