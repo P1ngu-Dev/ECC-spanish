@@ -83,7 +83,7 @@ Esto permanece local y debe configurarse por operador:
 ## Orden de puesta en marcha sugerido
 
 0. Ejecuta `ecc migrate audit --source ~/.hermes` primero para inventariar el workspace heredado y ver qué partes ya se mapean a ECC2.
-0.5. Planea y genera artefactos de scaffolding antes de importar cualquier cosa:
+1. Planea y genera artefactos de scaffolding antes de importar cualquier cosa:
    - genera planes revisables con `ecc migrate plan` y `ecc migrate scaffold`
    - genera scaffolding de skills heredadas reutilizables con `ecc migrate import-skills --output-dir migration-artifacts/skills`
    - genera plantillas de traducción de herramientas con `ecc migrate import-tools --output-dir migration-artifacts/tools`
