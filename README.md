@@ -5,15 +5,15 @@
 -->
 
 > **Spanish Translation / Traducción al Español**   
-> Este fork del repositorio ECC se utiliza para colaborar en la traducción de la documentación al español. / This fork serves as a workspace for collaborating on the Spanish‑language documentation of the main ECC repository.
+> Este fork del repositorio ECC fue el punto de partida para la traducción de la documentación al español. / This fork served as the starting point for translating the ECC documentation into Spanish.
 
 # ECC — Everything Claude Code
 
-> **Nota**: Este fork es un espacio para traducir y mejorar la documentación de ECC al español. Si buscas el repositorio original, visita [affaan-m/ECC](https://github.com/affaan-m/ECC).
+> **Nota**: Este fork funcionó como el espacio inicial para sentar las bases de la documentación de ECC en español. Ahora se mantiene como archivo histórico. Si buscas el repositorio original y su documentación actualizada, visita [affaan-m/ECC](https://github.com/affaan-m/ECC).
 
 **ECC** is a **harness-native operator system for agentic work**, designed to be used within AI agent harnesses like **Claude Code**, **Cursor**, **OpenCode**, **Codex**, and others.
 
-This repository was forked from the main [affaan-m/ECC](https://github.com/affaan-m/ECC) project to serve as a dedicated workspace for **Spanish-language documentation**. It allows contributors to translate, validate, and improve the project's documentation for Spanish-speaking users, while respecting the MIT license of the original.
+This repository was forked from the main [affaan-m/ECC](https://github.com/affaan-m/ECC) project to serve as a foundational workspace for **Spanish-language documentation**. It represented the first step in making the project's knowledge accessible to Spanish-speaking users, while respecting the MIT license of the original.
 
 ---
 
