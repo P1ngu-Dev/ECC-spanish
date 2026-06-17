@@ -30,13 +30,11 @@ For the original project, issues, and updates, please refer to the official repo
 
 ## About This Fork (Español)
 
-Este fork del repositorio **ECC (Everything Claude Code)** fue creado para facilitar la traducción de la documentación al español.
+Este fork del repositorio **ECC (Everything Claude Code)** nació como el primer paso para llevar la documentación al español. Fue el espacio inicial donde se sentaron las bases para que la comunidad hispanohablante pudiera acceder al proyecto en su propio idioma.
 
-La idea es que todo el mundo pueda usar esta documentación, y ya que el inglés no es el idioma nativo de muchas personas, hay personas que han hecho un esfuerzo extra para traducirla. Tú puedes ser uno de ellos si ves algo que faltan.
+La iniciativa de este fork sirvió como motivación y punto de partida para que, posteriormente, otros colaboradores se sumaran y culminaran el esfuerzo de traducción. La idea siempre fue clara: que el conocimiento técnico no deba estar limitado por barreras idiomáticas.
 
-Aquí es donde nace este fork; gracias a la posibilidad de crear una copia del proyecto, se nos facilitó el uso de herramientas automáticas (por ejemplo, Model Context Protocol) para agilizar este proceso.
-
-Si deseas ver el proyecto original y estar al día con actualizaciones, visita su repositorio oficial aquí: [github.com/affaan-m/ECC](https://github.com/affaan-m/ECC).
+Si bien el trabajo de traducción ya ha sido integrado en gran medida gracias al esfuerzo colectivo, este fork permanece como un testimonio del primer impulso que hizo posible la documentación en español. Para ver el estado actual del proyecto, visita el repositorio oficial: [github.com/affaan-m/ECC](https://github.com/affaan-m/ECC).
 
 ---
 
